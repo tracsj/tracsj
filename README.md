@@ -8,6 +8,8 @@ Most of that work is private, or a client's. What is public sits below.
 
 **[claude-os](https://github.com/tracsj/claude-os)** — six skills for building and maintaining a Claude Code setup, cut from the system I run across eleven projects.
 
+**[match-predictor](https://github.com/tracsj/match-predictor)** — football forecasting, measured against closing betting odds. The pre-registered rule lost money, and the write-up says so.
+
 **[stephentracy-site.vercel.app](https://stephentracy-site.vercel.app/)** — what I have built and operated, with the numbers attached.
 
 Older repositories here are coursework from a data science master's, kept for the record.

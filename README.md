@@ -6,7 +6,7 @@ I build apps, workflows and tools, usually to answer a question I have or to mak
 
 Most of that work is private, or a client's. What is public sits below.
 
-**[claude-os](https://github.com/tracsj/claude-os)** — six skills for building and maintaining a Claude Code setup, cut from the system I run across more than a dozen projects.
+**[groundwork](https://github.com/tracsj/claude-os)** — six skills for building and maintaining a Claude Code setup, cut from the system I run across more than a dozen projects.
 
 **[match-predictor](https://github.com/tracsj/match-predictor)** — football forecasting, measured against closing betting odds. The pre-registered rule lost money, and the write-up says so.
 
